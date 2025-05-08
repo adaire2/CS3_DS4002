@@ -8,7 +8,7 @@ This repository contains background and reference material to get your started a
 # How to Proceed Through the Study
 
 ## Step 1: Data Collection  
-Start by downloading the Yelp Open Dataset. You  can find it [here]([url](https://business.yelp.com/data/resources/open-dataset/)) It includes user-generated ratings and business details. Save a cleaned version of the data as a CSV for further use.
+Start by downloading the Yelp Open Dataset. You  can find it here https://business.yelp.com/data/resources/open-dataset/ It includes user-generated ratings and business details. Save a cleaned version of the data as a CSV for further use.
 
 ## Step 2: Data Cleaning and Exploration  
 Filter the dataset to include only restaurants in Philadelphia, PA with both price and review data. Clean the data by handling missing values, removing duplicates, and excluding non-restaurant entries. Use summary statistics and visualizations to explore rating and price distributions.  
