@@ -16,11 +16,11 @@ Run this step using: `SCRIPTS/yelp_restaurant_cleaning.ipynb`
 
 ## Step 3: Sentiment Analysis  
 Use the VADER sentiment tool to analyze customer reviews. Compute the average sentiment for each restaurant, then group and compare those averages by price level (1–4).  
-Run this step using: `SCRIPTS/Project_1_Analysis_Plan.ipynb`
+Run this step using: `SCRIPTS/analysis.ipynb`
 
 ## Step 4: Statistical Testing  
 Run an ANOVA to test whether sentiment scores differ significantly across price groups (p < 0.05). Then, perform a Spearman rank correlation to assess the strength and direction of the relationship between price and sentiment.  
-ANOVA: `SCRIPTS/Project_1_Analysis_Plan.ipynb`  
+ANOVA: `SCRIPTS/analysis.ipynb`  
 Spearman correlation: `SCRIPTS/spearman_analysis.ipynb`
 
 ## Step 5: Draw Conclusions  
